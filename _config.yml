@@ -6,9 +6,9 @@ color:
   saturation: 0.31357152480632067
   rhythmicContrast: 0.7899625508580357
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: www.donzaim.com
